@@ -1,0 +1,10 @@
+.button {
+  -fx-font-size: 15px;
+  -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+  -fx-background-color: #ffffff;
+}
+
+.button:hover {
+  -fx-text-fill: #ffffff;
+  -fx-background-color: #eb9f2f;
+}
